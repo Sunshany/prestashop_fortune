@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-04-24 12:12:20
+<?php /* Smarty version Smarty-3.1.19, created on 2017-04-24 18:05:59
          compiled from "C:\wamp64\www\Prestashop_Fortune\admin21738txcb\themes\new-theme\template\header.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:2576858fdcf84e25b17-93027180%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '4939cdc3ec2d5c14da921474bbc1805e38bcc30d' => 
     array (
       0 => 'C:\\wamp64\\www\\Prestashop_Fortune\\admin21738txcb\\themes\\new-theme\\template\\header.tpl',
-      1 => 1493026001,
+      1 => 1493036365,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_58fdcf8508d272_24981153',
   'variables' => 
   array (
     'img_dir' => 0,
@@ -40,8 +42,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'displayBackOfficeHeader' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_58fdcf8508d272_24981153',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_58fdcf8508d272_24981153')) {function content_58fdcf8508d272_24981153($_smarty_tpl) {?>
 <meta charset="utf-8">

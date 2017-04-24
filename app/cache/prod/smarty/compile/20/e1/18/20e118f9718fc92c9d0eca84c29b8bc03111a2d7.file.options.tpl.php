@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-04-24 12:27:47
+<?php /* Smarty version Smarty-3.1.19, created on 2017-04-24 19:30:54
          compiled from "C:\wamp64\www\Prestashop_Fortune\admin21738txcb\themes\default\template\controllers\themes\helpers\options\options.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:579358fdd3239a88d3-29886556%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,13 +7,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '20e118f9718fc92c9d0eca84c29b8bc03111a2d7' => 
     array (
       0 => 'C:\\wamp64\\www\\Prestashop_Fortune\\admin21738txcb\\themes\\default\\template\\controllers\\themes\\helpers\\options\\options.tpl',
-      1 => 1493025999,
+      1 => 1493036363,
       2 => 'file',
     ),
     '779cda57a4b9d075a0d55f036737aff409fd887a' => 
     array (
       0 => 'C:\\wamp64\\www\\Prestashop_Fortune\\admin21738txcb\\themes\\default\\template\\helpers\\options\\options.tpl',
-      1 => 1493026000,
+      1 => 1493036364,
       2 => 'file',
     ),
   ),
@@ -21,6 +21,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_58fdd324670794_61918974',
   'variables' => 
   array (
     'current_id_lang' => 0,
@@ -54,8 +56,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'ad' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_58fdd324670794_61918974',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_58fdd324670794_61918974')) {function content_58fdd324670794_61918974($_smarty_tpl) {?><?php if (!is_callable('smarty_function_counter')) include 'C:\\wamp64\\www\\Prestashop_Fortune\\vendor\\prestashop\\smarty\\plugins\\function.counter.php';
 if (!is_callable('smarty_modifier_replace')) include 'C:\\wamp64\\www\\Prestashop_Fortune\\vendor\\prestashop\\smarty\\plugins\\modifier.replace.php';

@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-04-24 12:11:54
+<?php /* Smarty version Smarty-3.1.19, created on 2017-04-24 18:05:17
          compiled from "C:\wamp64\www\Prestashop_Fortune\admin21738txcb\themes\default\template\helpers\form\form.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:726058fdcf6a4d9329-13471658%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,13 +7,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'fda7d2013e92e9f83188692ca931382df81f53de' => 
     array (
       0 => 'C:\\wamp64\\www\\Prestashop_Fortune\\admin21738txcb\\themes\\default\\template\\helpers\\form\\form.tpl',
-      1 => 1493025999,
+      1 => 1493036364,
       2 => 'file',
     ),
     '179545a396e45fe27fc293cecd77df72b7101c92' => 
     array (
       0 => 'C:\\wamp64\\www\\Prestashop_Fortune\\admin21738txcb\\themes\\default\\template\\helpers\\form\\form_group.tpl',
-      1 => 1493025999,
+      1 => 1493036364,
       2 => 'file',
     ),
   ),
@@ -21,6 +21,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_58fdcf6c250590_59555268',
   'variables' => 
   array (
     'fields' => 0,
@@ -73,8 +75,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'use_textarea_autosize' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_58fdcf6c250590_59555268',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_58fdcf6c250590_59555268')) {function content_58fdcf6c250590_59555268($_smarty_tpl) {?><?php if (!is_callable('smarty_function_counter')) include 'C:\\wamp64\\www\\Prestashop_Fortune\\vendor\\prestashop\\smarty\\plugins\\function.counter.php';
 ?>
@@ -1150,7 +1150,7 @@ $_smarty_tpl->tpl_vars['v']->_loop = true;
 									<?php /*  Call merged included template "helpers/form/form_group.tpl" */
 $_tpl_stack[] = $_smarty_tpl;
  $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate('helpers/form/form_group.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0, '726058fdcf6a4d9329-13471658');
-content_58fdcf6bb228d2_71815896($_smarty_tpl);
+content_58fe223edd9210_50322743($_smarty_tpl);
 $_smarty_tpl = array_pop($_tpl_stack); 
 /*  End of included template "helpers/form/form_group.tpl" */?>
 								<?php } elseif ($_smarty_tpl->tpl_vars['input']->value['type']=='shop') {?>
@@ -1532,9 +1532,9 @@ $_smarty_tpl->tpl_vars['language']->_loop = true;
 	</script>
 <?php }?>
 <?php }} ?>
-<?php /* Smarty version Smarty-3.1.19, created on 2017-04-24 12:11:55
+<?php /* Smarty version Smarty-3.1.19, created on 2017-04-24 18:05:18
          compiled from "C:\wamp64\www\Prestashop_Fortune\admin21738txcb\themes\default\template\helpers\form\form_group.tpl" */ ?>
-<?php if ($_valid && !is_callable('content_58fdcf6bb228d2_71815896')) {function content_58fdcf6bb228d2_71815896($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_58fe223edd9210_50322743')) {function content_58fe223edd9210_50322743($_smarty_tpl) {?>
 
 <?php if (count($_smarty_tpl->tpl_vars['groups']->value)&&isset($_smarty_tpl->tpl_vars['groups']->value)) {?>
 <div class="row">

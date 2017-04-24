@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-04-24 12:11:58
+<?php /* Smarty version Smarty-3.1.19, created on 2017-04-24 18:05:26
          compiled from "C:\wamp64\www\Prestashop_Fortune\admin21738txcb\themes\default\template\nav.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:898558fdcf6ef1b9c4-41771989%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '317035d06f75c9bad6e4e1b74e8f71c9a93cbf8b' => 
     array (
       0 => 'C:\\wamp64\\www\\Prestashop_Fortune\\admin21738txcb\\themes\\default\\template\\nav.tpl',
-      1 => 1493026000,
+      1 => 1493036364,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_58fdcf6f198ce2_43151135',
   'variables' => 
   array (
     'employee' => 0,
@@ -24,8 +26,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'level_3' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_58fdcf6f198ce2_43151135',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_58fdcf6f198ce2_43151135')) {function content_58fdcf6f198ce2_43151135($_smarty_tpl) {?><div class="bootstrap">
 	<nav id="<?php if ($_smarty_tpl->tpl_vars['employee']->value->bo_menu) {?>nav-sidebar<?php } else { ?>nav-topbar<?php }?>" role="navigation">
