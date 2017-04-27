@@ -2,7 +2,7 @@
 <module>
     <name>welcome</name>
     <displayName><![CDATA[Bienvenue]]></displayName>
-    <version><![CDATA[2.0.1]]></version>
+    <version><![CDATA[2.0.2]]></version>
     <description><![CDATA[Accompagne l&#039;utilisateur dans la cr&eacute;ation de son premier produit.]]></description>
     <author><![CDATA[PrestaShop]]></author>
     <tab><![CDATA[]]></tab>

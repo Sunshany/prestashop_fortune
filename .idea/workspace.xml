@@ -2,57 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f02c7c57-a744-46ca-8f6f-3e011ecc3158" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/appParameters.php" afterPath="$PROJECT_DIR$/app/cache/prod/appParameters.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/facebook/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/facebook/facebookconnect.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/facebook/logo.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/doctrine/c0/5b66725f6164646f6e735f6d6f64756c65735d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/prod/doctrine/c0/5b66725f6164646f6e735f6d6f64756c65735d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/doctrine/af/5b32313635643762353939393161623634316332383630396638303936663635305d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/prod/doctrine/af/5b32313635643762353939393161623634316332383630396638303936663635305d5b315d.doctrinecache.data" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/doctrine/ee/5b66725f6c6f63616c5f6d6f64756c65735d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/prod/doctrine/ee/5b66725f6c6f63616c5f6d6f64756c65735d5b315d.doctrinecache.data" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/02/66/05/026605fbaf5e8f06a3304e4dc57ef6efa4ec4c97.file.content.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/02/66/05/026605fbaf5e8f06a3304e4dc57ef6efa4ec4c97.file.content.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/02/b8/81/02b881b41de2855df09a366f253a6764a82abb87.file.welcome.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/02/b8/81/02b881b41de2855df09a366f253a6764a82abb87.file.welcome.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/0b/91/3c/0b913c8f50fb8b99574fcd7bc9ed87d739433c8c.file.login_addons.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/0b/91/3c/0b913c8f50fb8b99574fcd7bc9ed87d739433c8c.file.login_addons.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/0e/97/40/0e974018ab16478c533dd8f487c2111ef340a460.file.popup.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/0e/97/40/0e974018ab16478c533dd8f487c2111ef340a460.file.popup.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/1a/38/fd/1a38fda322571b677994e49aeb301b340a1df8a8.file.employee_dropdown.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/1a/38/fd/1a38fda322571b677994e49aeb301b340a1df8a8.file.employee_dropdown.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/20/e1/18/20e118f9718fc92c9d0eca84c29b8bc03111a2d7.file.options.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/20/e1/18/20e118f9718fc92c9d0eca84c29b8bc03111a2d7.file.options.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/24/b9/9b/24b99b707a526059c78e1e92a547f3846a6d8496.file.content.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/24/b9/9b/24b99b707a526059c78e1e92a547f3846a6d8496.file.content.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/2b/7f/6e/2b7f6ec8f10a6f6a6271415d986951b54d0fcf0a.file.layout.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/2b/7f/6e/2b7f6ec8f10a6f6a6271415d986951b54d0fcf0a.file.layout.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/31/23/bb/3123bb630b1fb7d8879dacac8a23b47e8fed1d68.file.error_messages.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/31/23/bb/3123bb630b1fb7d8879dacac8a23b47e8fed1d68.file.error_messages.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/31/70/35/317035d06f75c9bad6e4e1b74e8f71c9a93cbf8b.file.nav.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/31/70/35/317035d06f75c9bad6e4e1b74e8f71c9a93cbf8b.file.nav.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/37/04/fd/3704fd8cd0680a8c69fb413cbd7ad275090c5e51.file.view.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/37/04/fd/3704fd8cd0680a8c69fb413cbd7ad275090c5e51.file.view.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/37/fc/f7/37fcf72730947786a67341810f0a4d40840c5938.file.page_header_toolbar.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/37/fc/f7/37fcf72730947786a67341810f0a4d40840c5938.file.page_header_toolbar.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/3c/02/5c/3c025cea33c2ce083b4aa535fcdc34941fb11558.file.modal.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/3c/02/5c/3c025cea33c2ce083b4aa535fcdc34941fb11558.file.modal.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/43/39/0c/43390c550782046f5ce125d7c6651ea903764e09.file.login_addons.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/43/39/0c/43390c550782046f5ce125d7c6651ea903764e09.file.login_addons.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/43/63/aa/4363aaa934910e953f3bf9ba6db08d00802acafb.file.search_form.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/43/63/aa/4363aaa934910e953f3bf9ba6db08d00802acafb.file.search_form.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/49/39/cd/4939cdc3ec2d5c14da921474bbc1805e38bcc30d.file.header.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/49/39/cd/4939cdc3ec2d5c14da921474bbc1805e38bcc30d.file.header.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/54/36/af/5436affaf257a661deaf7a330fca424ee2b64d4a.file.dashboard_zone_two.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/54/36/af/5436affaf257a661deaf7a330fca424ee2b64d4a.file.dashboard_zone_two.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/54/8d/6b/548d6b788ad972f577b1bd13ed91de96e967747a.file.navbar.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/54/8d/6b/548d6b788ad972f577b1bd13ed91de96e967747a.file.navbar.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/55/ee/57/55ee57d651da3672c07499f787ca30decb1a7b62.file.modal.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/55/ee/57/55ee57d651da3672c07499f787ca30decb1a7b62.file.modal.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/61/5a/64/615a64f6fa0ad814949fee84355e614cceac0358.file.warning_messages.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/61/5a/64/615a64f6fa0ad814949fee84355e614cceac0358.file.warning_messages.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/78/bf/7a/78bf7a8f51f51e24e135177e56e07042519162a7.file.search_form.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/78/bf/7a/78bf7a8f51f51e24e135177e56e07042519162a7.file.search_form.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/79/77/90/79779015608eb11c9f3cf93721301fdc35d1a40d.file.simple.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/79/77/90/79779015608eb11c9f3cf93721301fdc35d1a40d.file.simple.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/7c/b1/90/7cb1906f9bfdadfa71cf4f8846b5d91a59029095.file.lost.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/7c/b1/90/7cb1906f9bfdadfa71cf4f8846b5d91a59029095.file.lost.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/7d/48/f0/7d48f0b0381991e870b82b81dbef9be149908c1f.file.nav_bar.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/7d/48/f0/7d48f0b0381991e870b82b81dbef9be149908c1f.file.nav_bar.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/7e/ad/69/7ead69739976bf629af3b5af574789d6d91afc0d.file.content.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/7e/ad/69/7ead69739976bf629af3b5af574789d6d91afc0d.file.content.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/7f/83/2c/7f832c11b271f5a0b95c0e5eaad5bb7987eb59a1.file.confirmation_messages.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/7f/83/2c/7f832c11b271f5a0b95c0e5eaad5bb7987eb59a1.file.confirmation_messages.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/81/07/68/810768def8dbdb91ac0131a6bef1c37275207df3.file.layout.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/81/07/68/810768def8dbdb91ac0131a6bef1c37275207df3.file.layout.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/91/72/06/917206ed72a9a3fedba011aa5ac84be0d9b1c40d.file.footer.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/91/72/06/917206ed72a9a3fedba011aa5ac84be0d9b1c40d.file.footer.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/99/b0/b2/99b0b2f67bd671f1c1cc2436c69b06498dd17317.file.non-responsive.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/99/b0/b2/99b0b2f67bd671f1c1cc2436c69b06498dd17317.file.non-responsive.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/9e/01/fd/9e01fd9aad5ad4d550b8e9b841c9ed8626fe12fe.file.config.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/9e/01/fd/9e01fd9aad5ad4d550b8e9b841c9ed8626fe12fe.file.config.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/a5/cb/66/a5cb669f1377633c2131e860c87a09129b8f7016.file.quick_access.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/a5/cb/66/a5cb669f1377633c2131e860c87a09129b8f7016.file.quick_access.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/ae/b3/d3/aeb3d3da7058a11336ff6fecb7bdb4355b21005c.file.shop_list.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/ae/b3/d3/aeb3d3da7058a11336ff6fecb7bdb4355b21005c.file.shop_list.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/b0/51/32/b05132676504e514c4e07bfea8bac4c3767c310f.file.content.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/b0/51/32/b05132676504e514c4e07bfea8bac4c3767c310f.file.content.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/b3/b3/54/b3b354839e9d6d37eb2ff19314069c16707b956b.file.tooltip.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/b3/b3/54/b3b354839e9d6d37eb2ff19314069c16707b956b.file.tooltip.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/c5/47/34/c54734aba15a2a80ac2ef78d6cc8f18f7b0fc2e8.file.header.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/c5/47/34/c54734aba15a2a80ac2ef78d6cc8f18f7b0fc2e8.file.header.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/cb/dd/1d/cbdd1d57d78fe9ae739804c6f7b9a65e38940afd.file.dashboard_zone_two.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/cb/dd/1d/cbdd1d57d78fe9ae739804c6f7b9a65e38940afd.file.dashboard_zone_two.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/cc/d6/0c/ccd60cbf0b7cd64b7efbfb200457290f825be5df.file.javascript.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/cc/d6/0c/ccd60cbf0b7cd64b7efbfb200457290f825be5df.file.javascript.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d0/ef/48/d0ef483ba7c549624099b07c36d2927ecca7a4c3.file.calendar.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d0/ef/48/d0ef483ba7c549624099b07c36d2927ecca7a4c3.file.calendar.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d3/fc/f8/d3fcf8c1ff0cd7d5948878b6e2ca58fb9ef47152.file.end.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d3/fc/f8/d3fcf8c1ff0cd7d5948878b6e2ca58fb9ef47152.file.end.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d7/03/02/d70302abe8b1c02d16304a46ae91872d2719bcdd.file.dashboard_zone_one.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d7/03/02/d70302abe8b1c02d16304a46ae91872d2719bcdd.file.dashboard_zone_one.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d7/31/7d/d7317da3d8690b6d89bf9469341845033f9ab230.file.header.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d7/31/7d/d7317da3d8690b6d89bf9469341845033f9ab230.file.header.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d7/9f/01/d79f01605eb47452aacc3e809fdd0a5c5bc06fdc.file.footer.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d7/9f/01/d79f01605eb47452aacc3e809fdd0a5c5bc06fdc.file.footer.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d9/57/0f/d9570fc68534e8bb0a21cf731f872ec88d046214.file.information_messages.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d9/57/0f/d9570fc68534e8bb0a21cf731f872ec88d046214.file.information_messages.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/dd/bf/ff/ddbfff524228fb14443e7465664f42237182863a.file.layout.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/dd/bf/ff/ddbfff524228fb14443e7465664f42237182863a.file.layout.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/df/cd/50/dfcd50ff648fc520ddd98369761992820c392db4.file.notifications_center.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/df/cd/50/dfcd50ff648fc520ddd98369761992820c392db4.file.notifications_center.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/e2/de/73/e2de73551c2bf1b2f749ce19a512ba732ef125c7.file.modal.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/e2/de/73/e2de73551c2bf1b2f749ce19a512ba732ef125c7.file.modal.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/e3/34/a2/e334a2f66d15b7094450ac50f45f6fe6d8e1407a.file.dashboard_zone_two.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/e3/34/a2/e334a2f66d15b7094450ac50f45f6fe6d8e1407a.file.dashboard_zone_two.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/fd/44/88/fd4488cd8eb5f3dd9336dfab640f77ae667b9236.file.page_header_toolbar.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/fd/44/88/fd4488cd8eb5f3dd9336dfab640f77ae667b9236.file.page_header_toolbar.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/fd/a7/d2/fda7d2013e92e9f83188692ca931382df81f53de.file.form.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/fd/a7/d2/fda7d2013e92e9f83188692ca931382df81f53de.file.form.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/xml/blog-fr.xml" afterPath="$PROJECT_DIR$/config/xml/blog-fr.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/xml/default_country_modules_list.xml" afterPath="$PROJECT_DIR$/config/xml/default_country_modules_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/xml/modules_native_addons.xml" afterPath="$PROJECT_DIR$/config/xml/modules_native_addons.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/xml/must_have_modules_list.xml" afterPath="$PROJECT_DIR$/config/xml/must_have_modules_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/xml/trusted_modules_list.xml" afterPath="$PROJECT_DIR$/config/xml/trusted_modules_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/xml/untrusted_modules_list.xml" afterPath="$PROJECT_DIR$/config/xml/untrusted_modules_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/pagesnotfound/config_fr.xml" afterPath="$PROJECT_DIR$/modules/pagesnotfound/config_fr.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/statsnewsletter/config_fr.xml" afterPath="$PROJECT_DIR$/modules/statsnewsletter/config_fr.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/OnBoarding/Configuration.php" afterPath="$PROJECT_DIR$/modules/welcome/OnBoarding/Configuration.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/OnBoarding/OnBoarding.php" afterPath="$PROJECT_DIR$/modules/welcome/OnBoarding/OnBoarding.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/config.xml" afterPath="$PROJECT_DIR$/modules/welcome/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/config_fr.xml" afterPath="$PROJECT_DIR$/modules/welcome/config_fr.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/js/module.js" afterPath="$PROJECT_DIR$/modules/welcome/js/module.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/js/src/OnBoarding.js" afterPath="$PROJECT_DIR$/modules/welcome/js/src/OnBoarding.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/public/module.css" afterPath="$PROJECT_DIR$/modules/welcome/public/module.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/public/module.js" afterPath="$PROJECT_DIR$/modules/welcome/public/module.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/scss/_advancement.scss" afterPath="$PROJECT_DIR$/modules/welcome/scss/_advancement.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/scss/_navbar.scss" afterPath="$PROJECT_DIR$/modules/welcome/scss/_navbar.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/scss/_popup.scss" afterPath="$PROJECT_DIR$/modules/welcome/scss/_popup.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/scss/_settings.scss" afterPath="$PROJECT_DIR$/modules/welcome/scss/_settings.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/scss/_tooltip.scss" afterPath="$PROJECT_DIR$/modules/welcome/scss/_tooltip.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/scss/module.scss" afterPath="$PROJECT_DIR$/modules/welcome/scss/module.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/vendor/autoload.php" afterPath="$PROJECT_DIR$/modules/welcome/vendor/autoload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/vendor/composer/ClassLoader.php" afterPath="$PROJECT_DIR$/modules/welcome/vendor/composer/ClassLoader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/vendor/composer/LICENSE" afterPath="$PROJECT_DIR$/modules/welcome/vendor/composer/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/vendor/composer/autoload_classmap.php" afterPath="$PROJECT_DIR$/modules/welcome/vendor/composer/autoload_classmap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/vendor/composer/autoload_namespaces.php" afterPath="$PROJECT_DIR$/modules/welcome/vendor/composer/autoload_namespaces.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/vendor/composer/autoload_psr4.php" afterPath="$PROJECT_DIR$/modules/welcome/vendor/composer/autoload_psr4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/vendor/composer/autoload_real.php" afterPath="$PROJECT_DIR$/modules/welcome/vendor/composer/autoload_real.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/modules/welcome/vendor/composer/installed.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/views/content.tpl" afterPath="$PROJECT_DIR$/modules/welcome/views/content.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/views/contents/end.tpl" afterPath="$PROJECT_DIR$/modules/welcome/views/contents/end.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/views/contents/welcome.tpl" afterPath="$PROJECT_DIR$/modules/welcome/views/contents/welcome.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/views/navbar.tpl" afterPath="$PROJECT_DIR$/modules/welcome/views/navbar.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/views/templates/lost.tpl" afterPath="$PROJECT_DIR$/modules/welcome/views/templates/lost.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/views/templates/popup.tpl" afterPath="$PROJECT_DIR$/modules/welcome/views/templates/popup.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/views/templates/tooltip.tpl" afterPath="$PROJECT_DIR$/modules/welcome/views/templates/tooltip.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/webpack.config.js" afterPath="$PROJECT_DIR$/modules/welcome/webpack.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/welcome-api.php" afterPath="$PROJECT_DIR$/modules/welcome/welcome-api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/welcome/welcome.php" afterPath="$PROJECT_DIR$/modules/welcome/welcome.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,13 +66,45 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="CustomerLoginForm.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classes/form/CustomerLoginForm.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4">
+              <caret line="65" column="41" lean-forward="false" selection-start-line="65" selection-start-column="41" selection-end-line="65" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="facebookconnect.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/modules/facebookconnect/facebookconnect.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="953">
+              <caret line="140" column="63" lean-forward="true" selection-start-line="140" selection-start-column="63" selection-end-line="140" selection-end-column="63" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="facebookconnect.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/facebookconnect/views/templates/hook/facebookconnect.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FrontController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classes/controller/FrontController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-498">
+              <caret line="532" column="24" lean-forward="false" selection-start-line="532" selection-start-column="13" selection-end-line="532" selection-end-column="24" />
+              <folding>
+                <marker date="1493036382362" expanded="true" signature="35507:35578" ph="SELECT id_gr... ${_DB_PREFIX_}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,6 +118,12 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>facebookname</find>
+      <find>hook_header</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -95,6 +136,11 @@
         <option value="$PROJECT_DIR$/modules/connection_facebook/facebook_connect.php" />
         <option value="$PROJECT_DIR$/modules/connectionfacebook/facebookconnect.php" />
         <option value="$PROJECT_DIR$/modules/connectionfacebook/config.xml" />
+        <option value="$PROJECT_DIR$/modules/facebook/override/classes/CustomerLoginForm.php" />
+        <option value="$PROJECT_DIR$/modules/facebook/facebookconnect.php" />
+        <option value="$PROJECT_DIR$/modules/facebookconnect/views/templates/hook/facebookconnect.tpl.php" />
+        <option value="$PROJECT_DIR$/modules/facebookconnect/views/templates/hook/facebookconnect.tpl" />
+        <option value="$PROJECT_DIR$/modules/facebookconnect/facebookconnect.php" />
       </list>
     </option>
   </component>
@@ -174,6 +220,58 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Prestashop_Fortune" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Prestashop_Fortune" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="facebookconnect" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hook" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Prestashop_Fortune" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Prestashop_Fortune" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="facebookconnect" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -183,6 +281,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -236,6 +335,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -270,53 +375,35 @@
       <option name="presentableId" value="Default" />
       <updated>1493029464351</updated>
       <workItem from="1493029465759" duration="12013000" />
+      <workItem from="1493289003448" duration="11887000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12013000" />
+    <option name="totallyTimeSpent" value="23900000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="2182" height="1416" extended-state="6" />
+    <frame x="-11" y="-11" width="2182" height="1416" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25263157" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25645933" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25263157" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -329,43 +416,28 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/modules/facebookconnect/facebookconnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/Desktop/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/test/templates/layouts/layout-both-columns.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/test/modules/ps_mainmenu/ps_mainmenu.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/test/templates/layouts/layout-both-columns.tpl" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/themes/test/modules/ps_mainmenu/ps_mainmenu.tpl" />
     <entry file="file://$PROJECT_DIR$/themes/_libraries/font-awesome/css/font-awesome.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-54540">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -381,7 +453,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -397,7 +468,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -405,7 +475,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-504">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -413,7 +482,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -421,7 +489,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="366">
           <caret line="104" column="13" lean-forward="false" selection-start-line="104" selection-start-column="12" selection-end-line="104" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -429,7 +496,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -437,7 +503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -445,7 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -453,10 +517,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-391">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1493036406924" expanded="true" signature="1589:1781" ph="SELECT * FRO... ${$this-&gt;getTableNameWithPrefix()}" />
-            <marker date="1493036406924" expanded="true" signature="2216:2477" ph="SELECT * FRO... ${$this-&gt;getTableNameWithPrefix()}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -464,9 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1493036406943" expanded="true" signature="1305:1382" ph="SELECT * FRO... ${$this-&gt;getTableNameWithPrefix()}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -474,7 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -482,7 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -490,7 +545,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -498,7 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -506,7 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -514,7 +566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -522,7 +573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-175">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -530,7 +580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -538,7 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -546,7 +594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -554,7 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1872">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -562,46 +608,103 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/connection_facebook/facebook_connect.php" />
+    <entry file="file://$PROJECT_DIR$/modules/connectionfacebook/facebook_connect.php" />
+    <entry file="file://$PROJECT_DIR$/modules/connectionfacebook/facebookconnect.php" />
+    <entry file="file://$PROJECT_DIR$/modules/connectionfacebook/config.xml" />
+    <entry file="file://$PROJECT_DIR$/classes/form/CustomerForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1152">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/connection_facebook/facebook_connect.php">
+    <entry file="file://$PROJECT_DIR$/classes/shop/Shop.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1493036384643" expanded="true" signature="7141:7441" ph="SELECT su.ph... ${_DB_PREFIX_}" />
+            <marker date="1493036384643" expanded="true" signature="9082:9170" ph="DELETE FROM " />
+            <marker date="1493036384643" expanded="true" signature="10307:10394" ph="SELECT count... ${_DB_PREFIX_}customer" />
+            <marker date="1493036384643" expanded="true" signature="10579:10672" ph="SELECT count... ${_DB_PREFIX_}orders" />
+            <marker date="1493036384643" expanded="true" signature="11392:11872" ph="SELECT s.id_... ${_DB_PREFIX_}" />
+            <marker date="1493036384643" expanded="true" signature="20403:20524" ph="SELECT * FRO... ${_DB_PREFIX_}" />
+            <marker date="1493036384643" expanded="true" signature="23176:23749" ph="SELECT gs.*,... ${_DB_PREFIX_}" />
+            <marker date="1493036384643" expanded="true" signature="25379:25418" ph="SELECT id_sh... ${_DB_PREFIX_}" />
+            <marker date="1493036384643" expanded="true" signature="36907:37000" ph="SELECT value... ${_DB_PREFIX_}configuration" />
+            <marker date="1493036384643" expanded="true" signature="37052:37092" ph="SELECT COUNT... ${_DB_PREFIX_}" />
+            <marker date="1493036384643" expanded="true" signature="39354:39416" ph="SELECT * FRO... ${_DB_PREFIX_}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/form/CustomerLoginFormatter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/connectionfacebook/facebook_connect.php">
+    <entry file="file://$PROJECT_DIR$/modules/facebook/override/classes/CustomerLoginForm.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        <state relative-caret-position="168">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/connectionfacebook/facebookconnect.php">
+    <entry file="file://$PROJECT_DIR$/modules/facebook/facebookconnect.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="26" column="43" lean-forward="false" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+        <state relative-caret-position="2448">
+          <caret line="107" column="30" lean-forward="false" selection-start-line="107" selection-start-column="30" selection-end-line="107" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/connectionfacebook/config.xml">
+    <entry file="file://$PROJECT_DIR$/modules/facebookconnect/views/templates/hook/facebookconnect.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        <state relative-caret-position="168">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/controller/FrontController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-498">
+          <caret line="532" column="24" lean-forward="false" selection-start-line="532" selection-start-column="13" selection-end-line="532" selection-end-column="24" />
+          <folding>
+            <marker date="1493036382362" expanded="true" signature="35507:35578" ph="SELECT id_gr... ${_DB_PREFIX_}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/form/CustomerLoginForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="65" column="41" lean-forward="false" selection-start-line="65" selection-start-column="41" selection-end-line="65" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/facebookconnect/views/templates/hook/facebookconnect.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/facebookconnect/facebookconnect.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="953">
+          <caret line="140" column="63" lean-forward="true" selection-start-line="140" selection-start-column="63" selection-end-line="140" selection-end-column="63" />
           <folding />
         </state>
       </provider>
